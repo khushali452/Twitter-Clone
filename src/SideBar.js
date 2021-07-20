@@ -28,6 +28,7 @@ function SideBar() {
             <SidebarOption Icon={PermIdentityIcon} text="Profile" />
             <SidebarOption Icon={MoreHorizIcon} text="More" />
             {/* button ==> tweet */}
+            <Button variant= "outlined" className="sidebar__tweet" fullWidth>Tweet</Button>
             
         </div>
     )
