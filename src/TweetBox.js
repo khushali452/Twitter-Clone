@@ -8,6 +8,8 @@ function TweetBox() {
         <div className="tweetBox">
             <form>
                 <div className="tweetBox__input">
+                <Avatar src="https://images.squarespace-cdn.com/content/v1/54b5c1d4e4b060f2e9699962/1431450724901-72CATYFOO297EU2PGFPQ/image-asset.jpeg"/>
+
                  <input placeholder="whats's happening?" type="text" />
                 </div>
                 <input className="tweetBox__inputImg"
